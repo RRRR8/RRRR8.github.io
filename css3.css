@@ -1,0 +1,102 @@
+.nazad{
+display: block;
+width: 80px;
+height: 150px;
+position: fixed;
+right: 10;
+top: 800px;
+z-index: 99999;
+}
+.nazad p{
+font-size: 15pt;
+}
+.s1 p
+{
+font-size: 24pt;
+font-family: Times New Roman;
+margin-top: 200px;
+}
+.s22
+{
+	margin-left:50px;
+	margin-top:30px;
+		font-family: Times New Roman;
+		float:right;
+}
+.s22 p{
+	text-align: center;
+	font-size: 16pt;
+		margin-top: 10px;
+		font-family: Times New Roman;
+}
+.s21
+{
+	margin-left:50px;
+	margin-top:30px;
+		font-family: Times New Roman;
+		float:left;
+}
+.s21 p{
+	text-align: center;
+	font-size: 16pt;
+		margin-top: 10px;
+		font-family: Times New Roman;
+}
+.s3
+{
+	font-size: 24pt;
+		margin-top: 10px;
+		font-family: Times New Roman;
+}
+.s4
+{
+	font-size: 16pt;
+		font-family: Times New Roman;
+		color: white;
+}
+.s4 p
+{
+		float: right;
+}
+.s5
+{
+			display: inline-block;
+			margin-top: 100px;
+}
+.s5 p
+{
+	font-size: 14pt;
+		font-family: Times New Roman;
+}
+.s6
+{
+			margin-top: 100px;
+			font-size: 18pt;
+		font-family: Times New Roman;
+}
+.s6 input
+{
+			margin-bottom: 40px;
+				font-size: 18pt;
+		font-family: Times New Roman;
+		  width: 430px;
+}
+.s6 button
+{
+				font-size: 18pt;
+		font-family: Times New Roman;
+		background-color:#721a19;
+color: white;
+}
+.s7
+{
+		display: inline-block;
+		margin-top: 100px;
+		margin-left:50px;
+		margin-right:50px;
+}
+.s7 p
+{
+	font-size: 14pt;
+		font-family: Times New Roman;
+}
